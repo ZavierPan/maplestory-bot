@@ -17,3 +17,14 @@
     pydirectinput
     opencv
     ```
+
+
+## Requirement
+
+```
+conda create --name maplestory python=3.7
+
+conda activate maplestory
+pip install pyautogui
+
+```
