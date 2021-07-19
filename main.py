@@ -1,4 +1,11 @@
 import pyautogui
+import pydirectinput
+
+# pydirectinput
+pydirectinput.moveTo(100, 150) # Move the mouse to the x, y coordinates 100, 150.
+pydirectinput.press('ctrl')
+pydirectinput.press('altleft')
+pydirectinput.press('altleft')
 
 # https://www.itread01.com/content/1541652985.html
 

@@ -13,8 +13,8 @@
 * 可能用到的套件
     ```
     winapi
-    pyautogui
-    pydirectinput
+    pyautogui (在楓之谷無效)
+    pydirectinput (在楓之谷無效)
     opencv
     ```
 
@@ -26,5 +26,6 @@ conda create --name maplestory python=3.7
 
 conda activate maplestory
 pip install pyautogui
+pip install pydirectinput
 
 ```
